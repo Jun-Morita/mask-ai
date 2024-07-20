@@ -6,6 +6,7 @@ A sample test AI tool for data masking and anonymization.
 > conda create -n mask-ai python=3.11  
 > pip install openai==1.35.10  
 > pip install streamlit==1.36.0  
+> pip install python-docx==1.1.2  
 
 ## OpenAI API Key
 
